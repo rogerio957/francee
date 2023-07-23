@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: RMC Story
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/142407
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 1
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21064
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 2
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 3
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21066
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 4
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21067
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 5
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21068
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 6
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21069
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 7
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21070
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 8
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21071
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 9
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21072
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 10
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/21073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 11
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/19434
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 12
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/205691
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 13
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/27579
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 14
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/205689
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FR: Box Office 15
+http://star8iptv.com:2082/worldiptv/8dV6wu3BVzfd9P2/205690
+
